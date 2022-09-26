@@ -1,5 +1,5 @@
 // opg 1 What to Wear // make a function where based on the number logs out different text
-/*
+
 const clotheToWear = (degrees) => {
     if (degrees < 0) {
         console.log("ski-underbukser og vinterjakke");
@@ -14,9 +14,9 @@ const clotheToWear = (degrees) => {
 }
 
 clotheToWear(11)
-*/
 
-/*
+
+
 // opg 2 Dice game // make a variable that gives a random whole number between 1 - 6 throw in loop based on amount of rolls
 // add auto increment whenever a 6 is hit and if sixes value hits 2 log out jackpot
 const diceRoller = (rolls) => {
@@ -35,7 +35,7 @@ const diceRoller = (rolls) => {
 }
 
 diceRoller(2)
-*/
+
 
 //opg 3 sentiment analyzer
 // codelab tid gg kan ikke finde ud af det //
